@@ -8,12 +8,19 @@ towards random things that interest me.
 
 ### Categories
 
-[Dynamics](#dynamics) 
+[Dynamics](#dynamics)
 [Statistical Mechanics](#statistical-mechanics)  
 [Quantum Mechanics](#quantum-mechanics)  
 [Fluid Mechanics](#fluid-mechanics)
 
+
 ### Dynamics
+
+**Hamiltonian Neural Networks.**
+Sam Greydanus, Misko Dzamba, Jason Yosinski
+*Preprint, September 2019*
+[[arXiv](https://arxiv.org/abs/1906.01563)]
+[[blog post](https://greydanus.github.io/2019/05/15/hamiltonian-nns/)]
 
 **Lagrangian Neural Networks.**
 Miles Cranmer, Sam Greydanus, Stephan Hoyer, Peter Battaglia, David Spergel, Shirley Ho
@@ -21,8 +28,13 @@ Miles Cranmer, Sam Greydanus, Stephan Hoyer, Peter Battaglia, David Spergel, Shi
 [[arXiv](https://arxiv.org/abs/2003.04630)]
 [[blog post](https://greydanus.github.io/2020/03/10/lagrangian-nns/)]
 
-### Statistical Mechanics
+**Learning to Simulate Complex Physics with Graph Networks**
+Alvaro Sanchez-Gonzalez, Jonathan Godwin, Tobias Pfaff,  Rex Ying, Jure Leskovec,
+Peter W. Battaglia
+*Preprint, February 2020.*  
+[[arXiv](https://arxiv.org/abs/2002.09405)]
 
+### Statistical Mechanics
 
 **Stochastic Normalizing Flows.**
 Hao Wu, Jonas Köhler, Frank Noé
