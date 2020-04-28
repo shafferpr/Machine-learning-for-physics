@@ -3,16 +3,23 @@
 ### Background
 
 Inspired by Kevin Yang's repository on Machine Learning for Proteins: https://github.com/yangkky/Machine-learning-for-proteins, this is a collection of interesting
-recent work at the intersection of machine learning and physics. I'm basically just an interested amateur so this list is not exhaustive and is heavily biased
+recent work at the intersection of machine learning and physics. I'm just an interested amateur so this list is not exhaustive and is heavily biased
 towards random things that interest me.
 
 ### Categories
 
-[Dynamics](#dynamics)
+[Dynamics](#dynamics) 
 [Statistical Mechanics](#statistical-mechanics)  
 [Quantum Mechanics](#quantum-mechanics)  
 [Fluid Mechanics](#fluid-mechanics)
 
+### Dynamics
+
+**Lagrangian Neural Networks.**
+Miles Cranmer, Sam Greydanus, Stephan Hoyer, Peter Battaglia, David Spergel, Shirley Ho
+*Preprint, March 2020.*  
+[[arXiv](https://arxiv.org/abs/2003.04630)]
+[[blog post](https://greydanus.github.io/2020/03/10/lagrangian-nns/)]
 
 ### Statistical Mechanics
 
