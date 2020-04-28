@@ -8,7 +8,7 @@ towards random things that interest me.
 
 ### Categories
 
-[Dynamics](#dynamics)
+[Dynamics](#dynamics) 
 [Statistical Mechanics](#statistical-mechanics)  
 [Quantum Mechanics](#quantum-mechanics)  
 [Fluid Mechanics](#fluid-mechanics)
@@ -40,3 +40,11 @@ Peter W. Battaglia
 Hao Wu, Jonas Köhler, Frank Noé
 *Preprint, February 2020.*  
 [[arXiv](https://arxiv.org/abs/2002.06707)]
+
+
+### Quantum Mechanics
+
+***Equivariant flow-based sampling for lattice gauge theory***
+Gurtej Kanwar, Michael S. Albergo, Denis Boyda, Kyle Cranmer, Daniel C. Hackett, Sébastien Racanière, Danilo Jimenez Rezende, Phiala E. Shanahan
+*Preprint, March 2020.*
+[[arXiv](https://arxiv.org/abs/2003.06413)]
